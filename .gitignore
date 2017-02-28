@@ -1,3 +1,4 @@
+.DS_Store
 .idea
 *.class
 *.log
@@ -16,3 +17,5 @@ project/plugins/project/
 
 .scala_dependencies
 .worksheet
+.ensime
+.ensime_cache/
